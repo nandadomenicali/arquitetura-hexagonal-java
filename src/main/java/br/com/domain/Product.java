@@ -1,5 +1,7 @@
 package br.com.domain;
 
+import br.com.domain.dtos.ProductDTO;
+
 import java.util.UUID;
 
 public class Product {
@@ -37,6 +39,6 @@ public class Product {
     public void UpdateStock(double amount){ this.amount = amount;}
 
     public ProductDTO toProductDTO(){
-        return new ProductDTO( this.name,  this.price,  this.amount);
+        return new ProductDTO(this.name,  this.price,  this.amount);
     }
 }
