@@ -1,0 +1,12 @@
+br/com/arquitetura/hexagonal/infrastructure/adapters/entity/ProductEntity.class
+br/com/arquitetura/hexagonal/ArquiteturaHexagonalApplication.class
+br/com/arquitetura/hexagonal/domain/adapters/service/OrderedServiceImpl.class
+br/com/arquitetura/hexagonal/domain/dtos/ProductDTO.class
+br/com/arquitetura/hexagonal/application/adapters/controller/ProductController.class
+br/com/arquitetura/hexagonal/domain/dtos/StockDTO.class
+br/com/arquitetura/hexagonal/domain/repository/IProductRepository.class
+br/com/arquitetura/hexagonal/infrastructure/adapters/repository/ISpringProductRepository.class
+br/com/arquitetura/hexagonal/domain/Product.class
+br/com/arquitetura/hexagonal/infrastructure/adapters/repository/ProductRepository.class
+br/com/arquitetura/hexagonal/domain/ports/IProductServicePort.class
+br/com/arquitetura/hexagonal/infrastructure/configuration/BeanConfiguration.class

@@ -1,0 +1,12 @@
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/infrastructure/adapters/repository/ProductRepository.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/domain/repository/IProductRepository.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/domain/Product.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/ArquiteturaHexagonalApplication.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/domain/dtos/StockDTO.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/application/adapters/controller/ProductController.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/domain/dtos/ProductDTO.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/domain/ports/IProductServicePort.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/infrastructure/adapters/repository/ISpringProductRepository.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/infrastructure/adapters/entity/ProductEntity.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/domain/adapters/service/OrderedServiceImpl.java
+/Users/domenicalif/gitlab/arquitetura-hexagonal-java/src/main/java/br/com/arquitetura/hexagonal/infrastructure/configuration/BeanConfiguration.java
