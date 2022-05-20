@@ -22,7 +22,7 @@ public class ProductController {
         productServicePort.createProduct(productDTO);
     }
 
-    @GetMapping
+    @GetMapping("/products")
     List<ProductDTO> getProduct(){
         return productServicePort.FindProduct();
     }
