@@ -5,7 +5,7 @@ import br.com.domain.dtos.ProductDTO;
 import br.com.domain.dtos.StockDTO;
 import br.com.domain.ports.IProductServicePort;
 import br.com.domain.repository.IProductRepository;
-import javassist.NotFoundException; 
+import javassist.NotFoundException;
 
 import java.util.List;
 import java.util.Objects;
