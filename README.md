@@ -1,7 +1,5 @@
 # arquitetura-hexagonal-java 🚀
 
-- Projeto realizado para estudo da arquitetura hexagonal
-
 # O que é arquitetura-hexagonal?
 - Arquitetura Hexagonal também conhecido como **Ports and Adapters.** É um padrão proposto por Alistair Cockburn para reduzir o acoplamento entre as diferentes camadas de um sistema, aumentando assim sua testabilidade. O padrão recebe este nome por conta da forma como uma aplicação que o utilize interage com o mundo externo: a partir de ports (portas) e adapters (adaptadoes).
 
