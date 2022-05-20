@@ -1,7 +1,5 @@
 package br.com.domain.dtos;
 
-import br.com.domain.Product;
-
 public class ProductDTO {
 
     private String name;
