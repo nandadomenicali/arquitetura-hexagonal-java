@@ -1,4 +1,4 @@
-package br.com.domain.dtos;
+package br.com.arquitetura.hexagonal.domain.dtos;
 
 public class StockDTO {
 

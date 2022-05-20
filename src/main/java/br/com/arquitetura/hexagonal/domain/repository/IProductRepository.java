@@ -1,6 +1,6 @@
-package br.com.domain.repository;
+package br.com.arquitetura.hexagonal.domain.repository;
 
-import br.com.domain.Product;
+import br.com.arquitetura.hexagonal.domain.Product;
 
 import java.util.List;
 

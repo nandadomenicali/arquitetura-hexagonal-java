@@ -1,6 +1,6 @@
-package br.com.domain;
+package br.com.arquitetura.hexagonal.domain;
 
-import br.com.domain.dtos.ProductDTO;
+import br.com.arquitetura.hexagonal.domain.dtos.ProductDTO;
 
 import java.util.UUID;
 

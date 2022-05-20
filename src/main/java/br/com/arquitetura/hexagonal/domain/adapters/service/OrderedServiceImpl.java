@@ -1,10 +1,10 @@
-package br.com.domain.adapters.service;
+package br.com.arquitetura.hexagonal.domain.adapters.service;
 
-import br.com.domain.Product;
-import br.com.domain.dtos.ProductDTO;
-import br.com.domain.dtos.StockDTO;
-import br.com.domain.ports.IProductServicePort;
-import br.com.domain.repository.IProductRepository;
+import br.com.arquitetura.hexagonal.domain.dtos.ProductDTO;
+import br.com.arquitetura.hexagonal.domain.Product;
+import br.com.arquitetura.hexagonal.domain.dtos.StockDTO;
+import br.com.arquitetura.hexagonal.domain.ports.IProductServicePort;
+import br.com.arquitetura.hexagonal.domain.repository.IProductRepository;
 import javassist.NotFoundException;
 
 import java.util.List;

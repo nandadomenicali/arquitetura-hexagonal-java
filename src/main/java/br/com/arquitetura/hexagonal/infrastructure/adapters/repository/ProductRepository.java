@@ -1,8 +1,8 @@
-package br.com.infrastructure.adapters.repository;
+package br.com.arquitetura.hexagonal.infrastructure.adapters.repository;
 
-import br.com.domain.Product;
-import br.com.domain.repository.IProductRepository;
-import br.com.infrastructure.adapters.entity.ProductEntity;
+import br.com.arquitetura.hexagonal.domain.Product;
+import br.com.arquitetura.hexagonal.domain.repository.IProductRepository;
+import br.com.arquitetura.hexagonal.infrastructure.adapters.entity.ProductEntity;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

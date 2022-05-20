@@ -1,9 +1,8 @@
-package br.com.application.adapters.controller;
+package br.com.arquitetura.hexagonal.application.adapters.controller;
 
-import br.com.domain.Product;
-import br.com.domain.dtos.ProductDTO;
-import br.com.domain.dtos.StockDTO;
-import br.com.domain.ports.IProductServicePort;
+import br.com.arquitetura.hexagonal.domain.dtos.ProductDTO;
+import br.com.arquitetura.hexagonal.domain.dtos.StockDTO;
+import br.com.arquitetura.hexagonal.domain.ports.IProductServicePort;
 import javassist.NotFoundException;
 import org.springframework.web.bind.annotation.*;
 

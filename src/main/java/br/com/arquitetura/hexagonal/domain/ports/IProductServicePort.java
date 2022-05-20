@@ -1,7 +1,7 @@
-package br.com.domain.ports;
+package br.com.arquitetura.hexagonal.domain.ports;
 
-import br.com.domain.dtos.ProductDTO;
-import br.com.domain.dtos.StockDTO;
+import br.com.arquitetura.hexagonal.domain.dtos.ProductDTO;
+import br.com.arquitetura.hexagonal.domain.dtos.StockDTO;
 import javassist.NotFoundException;
 
 import java.util.List;

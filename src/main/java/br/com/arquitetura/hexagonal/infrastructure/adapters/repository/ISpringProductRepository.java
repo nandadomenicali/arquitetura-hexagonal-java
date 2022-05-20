@@ -1,6 +1,6 @@
-package br.com.infrastructure.adapters.repository;
+package br.com.arquitetura.hexagonal.infrastructure.adapters.repository;
 
-import br.com.infrastructure.adapters.entity.ProductEntity;
+import br.com.arquitetura.hexagonal.infrastructure.adapters.entity.ProductEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

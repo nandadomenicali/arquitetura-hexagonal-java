@@ -1,6 +1,6 @@
-package br.com.infrastructure.adapters.entity;
+package br.com.arquitetura.hexagonal.infrastructure.adapters.entity;
 
-import br.com.domain.Product;
+import br.com.arquitetura.hexagonal.domain.Product;
 
 import javax.persistence.*;
 import java.util.UUID;
